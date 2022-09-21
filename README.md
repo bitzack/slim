@@ -1,24 +1,9 @@
-# README
+# Slim Rails App 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Created for the puropose of Logging Requests Middleware 
 
-Things you may want to cover:
+https://github.com/mozack1/slim/blob/master/spec/log_requests_middleware_spec.rb
 
-* Ruby version
+https://github.com/mozack1/slim/blob/master/config/log_requests_middleware.rb
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://github.com/mozack1/slim/blob/master/db/migrate/20220921014827_create_log_table.rb
